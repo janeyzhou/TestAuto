@@ -1,0 +1,205 @@
+2017-08-03 21:12:32,242 INFO  [Log] ********************************************************** 
+2017-08-03 21:12:32,243 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-03 21:12:32,243 INFO  [Log] ********************************************************** 
+2017-08-03 21:12:32,244 INFO  [Log] Initinal new driver 
+2017-08-03 21:12:32,742 INFO  [Log] open the excel with test data 
+2017-08-03 21:13:24,981 INFO  [Log] ********************************************************** 
+2017-08-03 21:13:24,981 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-03 21:13:24,981 INFO  [Log] ********************************************************** 
+2017-08-03 21:13:27,974 INFO  [Log] Initinal new driver 
+2017-08-03 21:13:28,518 INFO  [Log] open the excel with test data 
+2017-08-03 21:13:30,943 INFO  [Log] open the sign in page 
+2017-08-03 21:13:30,950 INFO  [Log] Read username value from excel 
+2017-08-03 21:13:30,950 INFO  [Log] Read password value from excel 
+2017-08-03 21:13:30,986 INFO  [Log] Found the username input box 
+2017-08-03 21:13:31,078 INFO  [Log] Set values for username filed 
+2017-08-03 21:13:31,104 INFO  [Log] Found the password input box 
+2017-08-03 21:13:31,194 INFO  [Log] Set values for password filed 
+2017-08-03 21:13:31,221 INFO  [Log] Found the submit button 
+2017-08-03 21:13:32,829 INFO  [Log] Click action perform on submit button 
+2017-08-03 21:13:32,829 INFO  [Log] Perform login fucntion 
+2017-08-03 21:13:33,938 INFO  [Log] xxxxxxxxxxxxxxxxxxxxxx   E---N---D   xxxxxxxxxxxxxxxxxxxxxx 
+2017-08-03 21:13:33,938 INFO  [Log] x 
+2017-08-03 21:13:33,938 INFO  [Log] x 
+2017-08-03 21:13:33,938 INFO  [Log] x 
+2017-08-05 15:25:31,406 INFO  [Log] ********************************************************** 
+2017-08-05 15:25:31,407 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 15:25:31,407 INFO  [Log] ********************************************************** 
+2017-08-05 15:25:35,536 INFO  [Log] Initinal new driver 
+2017-08-05 15:25:36,009 INFO  [Log] open the excel with test data 
+2017-08-05 15:25:41,022 INFO  [Log] open the sign in page 
+2017-08-05 15:25:41,041 INFO  [Log] Read username value from excel 
+2017-08-05 15:25:41,041 INFO  [Log] Read password value from excel 
+2017-08-05 15:25:42,213 INFO  [Log] xxxxxxxxxxxxxxxxxxxxxx   E---N---D   xxxxxxxxxxxxxxxxxxxxxx 
+2017-08-05 15:25:42,213 INFO  [Log] x 
+2017-08-05 15:25:42,213 INFO  [Log] x 
+2017-08-05 15:25:42,213 INFO  [Log] x 
+2017-08-05 15:27:44,472 INFO  [Log] ********************************************************** 
+2017-08-05 15:27:44,473 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 15:27:44,473 INFO  [Log] ********************************************************** 
+2017-08-05 15:27:48,524 INFO  [Log] Initinal new driver 
+2017-08-05 15:27:49,014 INFO  [Log] open the excel with test data 
+2017-08-05 15:27:53,817 INFO  [Log] open the sign in page 
+2017-08-05 15:27:53,822 INFO  [Log] Read username value from excel 
+2017-08-05 15:27:53,822 INFO  [Log] Read password value from excel 
+2017-08-05 15:27:54,938 INFO  [Log] xxxxxxxxxxxxxxxxxxxxxx   E---N---D   xxxxxxxxxxxxxxxxxxxxxx 
+2017-08-05 15:27:54,938 INFO  [Log] x 
+2017-08-05 15:27:54,938 INFO  [Log] x 
+2017-08-05 15:27:54,938 INFO  [Log] x 
+2017-08-05 15:29:23,535 INFO  [Log] ********************************************************** 
+2017-08-05 15:29:23,536 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 15:29:23,536 INFO  [Log] ********************************************************** 
+2017-08-05 15:29:27,509 INFO  [Log] Initinal new driver 
+2017-08-05 15:29:27,999 INFO  [Log] open the excel with test data 
+2017-08-05 15:29:44,432 INFO  [Log] open the sign in page 
+2017-08-05 15:29:44,449 INFO  [Log] Read username value from excel 
+2017-08-05 15:29:44,450 INFO  [Log] Read password value from excel 
+2017-08-05 15:29:45,543 INFO  [Log] xxxxxxxxxxxxxxxxxxxxxx   E---N---D   xxxxxxxxxxxxxxxxxxxxxx 
+2017-08-05 15:29:45,543 INFO  [Log] x 
+2017-08-05 15:29:45,543 INFO  [Log] x 
+2017-08-05 15:29:45,543 INFO  [Log] x 
+2017-08-05 15:41:25,065 INFO  [Log] ********************************************************** 
+2017-08-05 15:41:25,065 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 15:41:25,065 INFO  [Log] ********************************************************** 
+2017-08-05 15:41:28,923 INFO  [Log] Initinal new driver 
+2017-08-05 15:41:29,440 INFO  [Log] open the excel with test data 
+2017-08-05 15:41:33,857 INFO  [Log] open the sign in page 
+2017-08-05 15:41:33,873 INFO  [Log] Read username value from excel 
+2017-08-05 15:41:33,873 INFO  [Log] Read password value from excel 
+2017-08-05 15:41:34,980 INFO  [Log] xxxxxxxxxxxxxxxxxxxxxx   E---N---D   xxxxxxxxxxxxxxxxxxxxxx 
+2017-08-05 15:41:34,980 INFO  [Log] x 
+2017-08-05 15:41:34,980 INFO  [Log] x 
+2017-08-05 15:41:34,980 INFO  [Log] x 
+2017-08-05 15:44:37,665 INFO  [Log] ********************************************************** 
+2017-08-05 15:44:37,666 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 15:44:37,666 INFO  [Log] ********************************************************** 
+2017-08-05 15:44:41,611 INFO  [Log] Initinal new driver 
+2017-08-05 15:44:42,089 INFO  [Log] open the excel with test data 
+2017-08-05 15:45:02,752 INFO  [Log] open the sign in page 
+2017-08-05 15:45:02,767 INFO  [Log] Read username value from excel 
+2017-08-05 15:45:02,767 INFO  [Log] Read password value from excel 
+2017-08-05 15:45:03,873 INFO  [Log] xxxxxxxxxxxxxxxxxxxxxx   E---N---D   xxxxxxxxxxxxxxxxxxxxxx 
+2017-08-05 15:45:03,873 INFO  [Log] x 
+2017-08-05 15:45:03,873 INFO  [Log] x 
+2017-08-05 15:45:03,873 INFO  [Log] x 
+2017-08-05 15:56:43,980 INFO  [Log] ********************************************************** 
+2017-08-05 15:56:43,980 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 15:56:43,980 INFO  [Log] ********************************************************** 
+2017-08-05 15:56:47,875 INFO  [Log] Initinal new driver 
+2017-08-05 15:56:48,345 INFO  [Log] open the excel with test data 
+2017-08-05 15:56:52,794 INFO  [Log] open the sign in page 
+2017-08-05 15:56:52,816 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-05 15:56:52,817 INFO  [Log] Read password value from excelzj19880311 
+2017-08-05 15:56:53,923 INFO  [Log] xxxxxxxxxxxxxxxxxxxxxx   E---N---D   xxxxxxxxxxxxxxxxxxxxxx 
+2017-08-05 15:56:53,923 INFO  [Log] x 
+2017-08-05 15:56:53,923 INFO  [Log] x 
+2017-08-05 15:56:53,923 INFO  [Log] x 
+2017-08-05 16:10:52,135 INFO  [Log] ********************************************************** 
+2017-08-05 16:10:52,135 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 16:10:52,135 INFO  [Log] ********************************************************** 
+2017-08-05 16:10:56,060 INFO  [Log] Initinal new driver 
+2017-08-05 16:10:56,529 INFO  [Log] open the excel with test data 
+2017-08-05 16:16:53,568 INFO  [Log] ********************************************************** 
+2017-08-05 16:16:53,568 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 16:16:53,568 INFO  [Log] ********************************************************** 
+2017-08-05 16:17:11,853 INFO  [Log] open the sign in page 
+2017-08-05 16:17:11,869 INFO  [Log] Initinal new driver 
+2017-08-05 16:17:12,364 INFO  [Log] open the excel with test data 
+2017-08-05 16:17:12,383 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-05 16:17:12,383 INFO  [Log] Read password value from excelzj19880311 
+2017-08-05 16:29:19,314 INFO  [Log] ********************************************************** 
+2017-08-05 16:29:19,314 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-05 16:29:19,314 INFO  [Log] ********************************************************** 
+2017-08-05 16:29:23,278 INFO  [Log] Initinal new driver 
+2017-08-05 16:29:23,741 INFO  [Log] open the excel with test data 
+2017-08-05 16:29:30,873 INFO  [Log] open the sign in page 
+2017-08-05 16:29:30,892 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-05 16:29:30,892 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 12:57:15,734 INFO  [Log] ********************************************************** 
+2017-08-07 12:57:15,735 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 12:57:15,735 INFO  [Log] ********************************************************** 
+2017-08-07 12:57:19,695 INFO  [Log] Initinal new driver 
+2017-08-07 12:57:20,226 INFO  [Log] open the excel with test data 
+2017-08-07 12:57:23,425 INFO  [Log] open the sign in page 
+2017-08-07 12:57:23,431 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 12:57:23,431 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:00:57,074 INFO  [Log] ********************************************************** 
+2017-08-07 13:00:57,074 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:00:57,074 INFO  [Log] ********************************************************** 
+2017-08-07 13:01:00,851 INFO  [Log] Initinal new driver 
+2017-08-07 13:01:01,299 INFO  [Log] open the excel with test data 
+2017-08-07 13:01:04,670 INFO  [Log] open the sign in page 
+2017-08-07 13:01:04,678 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:01:04,678 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:02:31,833 INFO  [Log] ********************************************************** 
+2017-08-07 13:02:31,833 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:02:31,833 INFO  [Log] ********************************************************** 
+2017-08-07 13:02:35,629 INFO  [Log] Initinal new driver 
+2017-08-07 13:02:36,075 INFO  [Log] open the excel with test data 
+2017-08-07 13:02:38,514 INFO  [Log] open the sign in page 
+2017-08-07 13:02:38,521 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:02:38,521 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:03:08,035 INFO  [Log] ********************************************************** 
+2017-08-07 13:03:08,035 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:03:08,035 INFO  [Log] ********************************************************** 
+2017-08-07 13:03:11,809 INFO  [Log] Initinal new driver 
+2017-08-07 13:03:12,295 INFO  [Log] open the excel with test data 
+2017-08-07 13:03:14,573 INFO  [Log] open the sign in page 
+2017-08-07 13:03:14,582 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:03:14,582 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:03:46,850 INFO  [Log] ********************************************************** 
+2017-08-07 13:03:46,851 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:03:46,851 INFO  [Log] ********************************************************** 
+2017-08-07 13:03:50,629 INFO  [Log] Initinal new driver 
+2017-08-07 13:03:51,081 INFO  [Log] open the excel with test data 
+2017-08-07 13:03:53,386 INFO  [Log] open the sign in page 
+2017-08-07 13:03:53,391 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:03:53,391 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:04:37,840 INFO  [Log] ********************************************************** 
+2017-08-07 13:04:37,841 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:04:37,841 INFO  [Log] ********************************************************** 
+2017-08-07 13:04:41,700 INFO  [Log] Initinal new driver 
+2017-08-07 13:04:42,156 INFO  [Log] open the excel with test data 
+2017-08-07 13:04:44,624 INFO  [Log] open the sign in page 
+2017-08-07 13:04:44,631 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:04:44,631 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:11:20,860 INFO  [Log] ********************************************************** 
+2017-08-07 13:11:20,860 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:11:20,860 INFO  [Log] ********************************************************** 
+2017-08-07 13:11:24,639 INFO  [Log] Initinal new driver 
+2017-08-07 13:11:25,076 INFO  [Log] open the excel with test data 
+2017-08-07 13:11:27,422 INFO  [Log] open the sign in page 
+2017-08-07 13:11:27,429 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:11:27,429 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:17:21,444 INFO  [Log] ********************************************************** 
+2017-08-07 13:17:21,444 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:17:21,445 INFO  [Log] ********************************************************** 
+2017-08-07 13:17:25,433 INFO  [Log] Initinal new driver 
+2017-08-07 13:17:25,877 INFO  [Log] open the excel with test data 
+2017-08-07 13:17:28,064 INFO  [Log] open the sign in page 
+2017-08-07 13:17:28,072 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:17:28,072 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:17:28,184 INFO  [Log] set value for username 
+2017-08-07 13:17:28,284 INFO  [Log] set value for password 
+2017-08-07 13:17:29,878 INFO  [Log] click submit button to login 
+2017-08-07 13:17:29,878 INFO  [Log] Perform login fucntion 
+2017-08-07 13:18:09,366 INFO  [Log] ********************************************************** 
+2017-08-07 13:18:09,367 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:18:09,367 INFO  [Log] ********************************************************** 
+2017-08-07 13:18:13,186 INFO  [Log] Initinal new driver 
+2017-08-07 13:18:13,643 INFO  [Log] open the excel with test data 
+2017-08-07 13:18:15,937 INFO  [Log] open the sign in page 
+2017-08-07 13:18:15,943 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:18:15,943 INFO  [Log] Read password value from excelzj19880311 
+2017-08-07 13:18:16,065 INFO  [Log] set value for username 
+2017-08-07 13:18:16,164 INFO  [Log] set value for password 
+2017-08-07 13:18:17,700 INFO  [Log] click submit button to login 
+2017-08-07 13:18:17,700 INFO  [Log] Perform login fucntion 
+2017-08-07 13:21:12,450 INFO  [Log] ********************************************************** 
+2017-08-07 13:21:12,450 INFO  [Log] ------------------   LoginGitHub   ------------------ 
+2017-08-07 13:21:12,450 INFO  [Log] ********************************************************** 
+2017-08-07 13:21:16,256 INFO  [Log] Initinal new driver 
+2017-08-07 13:21:16,710 INFO  [Log] open the excel with test data 
+2017-08-07 13:21:18,981 INFO  [Log] open the sign in page 
+2017-08-07 13:21:18,987 INFO  [Log] Read username value from excel =janeyzhou 
+2017-08-07 13:21:18,988 INFO  [Log] Read password value from excelzj19880311 
